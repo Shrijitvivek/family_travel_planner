@@ -338,31 +338,3 @@ This project extends the base Multi-Agent Travel Planner into a family-friendly 
 
 The main customization is the addition of family and kid-friendly activities and the modification of the Activity Worker to prefer those activities when planning trips for families.
 
-The complete pipeline is:
-
-```text
-User Request
-    |
-    v
-Manager
-    |
-    v
-Specialist Workers
-    |
-    v
-Draft Itinerary
-    |
-    v
-Critic
-    |
-    v
-Manager Revision
-    |
-    v
-Final Family-Friendly Travel Plan
-```
-
-```
-
-**This time, literally copy from `# Family-Friendly Multi-Agent Travel Planner` through the final three backticks.**
-```
