@@ -71,7 +71,8 @@ def run_activity_worker(requirements: TravelRequirements, activities: list[dict]
     options = search_activities(requirements, activities)
     return _run_worker(
         "activities",
-        "Choose up to five varied activities that match interests and realistic pacing.",
+       "Choose up to five varied activities that match interests and realistic pacing. "
+       "For a family trip, strongly prefer activities tagged 'family' or 'kid-friendly'.",
         requirements,
         options,
         "activity_id",

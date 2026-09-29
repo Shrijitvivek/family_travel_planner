@@ -93,7 +93,42 @@
       "low-cost"
     ],
     "notes": "Strong fit for food-focused travellers."
+    },
+
+  {
+    "activity_id": "SG-A07",
+    "destination": "Singapore",
+    "name": "Singapore Zoo",
+    "area": "Mandai",
+    "duration_hours": 5,
+    "best_time": "Morning",
+    "cost_inr": 3500,
+    "tags": [
+      "family",
+      "kid-friendly",
+      "nature",
+      "animals"
+    ],
+    "notes": "A family-friendly activity with animals and outdoor exploration."
   },
+
+  {
+    "activity_id": "SG-A08",
+    "destination": "Singapore",
+    "name": "Science Centre Singapore",
+    "area": "Jurong East",
+    "duration_hours": 4,
+    "best_time": "Morning or afternoon",
+    "cost_inr": 1800,
+    "tags": [
+      "family",
+      "kid-friendly",
+      "science",
+      "indoor"
+    ],
+    "notes": "Interactive science exhibits suitable for families and children."
+  },
+  
   {
     "activity_id": "DXB-A01",
     "destination": "Dubai",
